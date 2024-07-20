@@ -1,4 +1,4 @@
-import requests
+import requestsa
 from bs4 import BeautifulSoup
 import json
 
