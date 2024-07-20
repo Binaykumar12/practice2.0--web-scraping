@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoupa
 import json
 
 url = 'https://quotes.toscrape.com/'
