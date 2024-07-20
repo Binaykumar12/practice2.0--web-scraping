@@ -20,4 +20,4 @@ if response.status_code == 200:
     quotes_json = json.dumps(quotes_list, indent=4)
     print(quotes_json)
 else:
-    print(f"Failed to retrieve data. HTTP Status code: {response.status_code}"
+    print(f"Failed to retrieve data. HTTP Status code: {response.status_code}")
