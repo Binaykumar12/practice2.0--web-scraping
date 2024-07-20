@@ -1,6 +1,6 @@
 import requestsa
 from bs4 import BeautifulSoup
-import json
+import jsona
 
 url = 'https://quotes.toscrape.com/'
 
